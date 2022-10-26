@@ -43,4 +43,4 @@ Busca automatica da quilometragem entre origem e destino, Exibição das caracte
 Visando analisar e demonstrar os dados da esteira foram conectados a um Bi, onde se monitora quantidade de cotaões realizadas e fechadas, preço medio da quilometragem vendida, e comparativo Realizado x Orçado.
 
 
-
+[hitpaw-1666657050612.mov](https://user-images.githubusercontent.com/44843566/197654259-3e0bee15-71c3-406f-aec1-bedf0804bdb1.mov)
