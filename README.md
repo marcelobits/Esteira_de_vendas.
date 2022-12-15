@@ -7,7 +7,7 @@ O objetivo deste projeto foi otimizar o processo de precificação de viagens tu
 | -------------  | --- |
 | :sparkles: Nome        | **Esteira de vendas**
 | :label: Tecnologias | Google Sheets, java script, html, Power bi
-| :rocket: URL         | 
+| :rocket: URL         |  https://bit.ly/3V4Ip9A
 | :fire: Desafio     |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
@@ -72,4 +72,16 @@ A precificação do frete leva em consideração a Quilometragem, tipo de veicul
 
 Valores promocionais tambem foram previamente tabelados e tambem podem ser aplicados durante o processo de precificação na coluna (Cupom Promocional), cabe ao analista durante o processo de precificação avaliar se os criterios de aplicação do cupom se aplicam a viagem. Os valores Personalizados são aplicados caso aja uma negociação fora desse escopo tabelado e os valores da viagem devem ser digitados no campo Valor personalizado.
 
+
+![Preço](https://user-images.githubusercontent.com/44843566/207890300-9acbb86f-e3d5-4aca-84d2-c6f5c0f752c1.PNG)
+
+**Acesso ao Projeto**
+
+O Acesso ao projeto esta liberado para visualização travez do link: https://bit.ly/3V4Ip9A
+
+Acesso ao Scrip tem que ser solicitado
+Pode ser adptado para sua necessidade.
+
+Caso necessite de Alguma ajuda, entre em contato
+https://www.linkedin.com/in/marcelo-ferreira-dados/
 
