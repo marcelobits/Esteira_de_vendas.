@@ -20,7 +20,7 @@ O intuito do desenvolvimento desta planilha foi Agilizar o processo de cotação
 
 ## Porque o Google Sheets?
 
-Além de ser uma ferramenta do dia dia é de fácil utilização, baixo custo e ideal como para soluções personalizadas.
+Além de ser uma ferramenta do dia dia é de fácil utilização, baixo custo e ideal como para soluções personalizadas, tendo uma grande gama de integrações e automatizações com CRM de vendas e entre outros.
 
 ## Detalhes do projeto
 
@@ -57,5 +57,17 @@ Visando analisar e demonstrar os dados da esteira foram conectados a um Bi, onde
 
 
 
-*Preenchimento automatico da quilometragem*
+**Preenchimento automatico da quilometragem**
+
 ![km automatico](https://user-images.githubusercontent.com/44843566/197912177-c1baceba-3dfb-4d3a-bffb-75d587640ef0.gif)
+
+
+
+**Precificação do Frete**
+
+A precificação do frete leva em consideração a Quilometragem, tipo de veiculo, quantidade de dias alocados, porem o levantamento da quilometragem era o item na qual demandava maior tempo, pois era necessario verificar via Google Maps, os demais itens eram tabelados e agregados ao valor. Por serem valores tabelados onde todos as variações disponiveis estavam previamente precificadas bastando apenas agregar ao valor por quilometro rodado, foi relativamente simples por ser compativel com o Sheets.
+
+**Valores promocionais**
+Valores promocionais tambem foram previamente tabelados e tambem podem ser aplicados durante o processo de precificação na coluna (Cupom Promocional), cabe ao analista durante o processo de precificação avaliar se os criterios de aplicação do cupom se aplicam a viagem. Os valores Personalizados são aplicados caso aja uma negociação fora desse escopo tabelado e os valores da viagem devem ser digitados no campo Valor personalizado.
+
+
