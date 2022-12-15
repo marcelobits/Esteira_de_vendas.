@@ -67,7 +67,9 @@ Visando analisar e demonstrar os dados da esteira foram conectados a um Bi, onde
 
 A precificação do frete leva em consideração a Quilometragem, tipo de veiculo, quantidade de dias alocados, porem o levantamento da quilometragem era o item na qual demandava maior tempo, pois era necessario verificar via Google Maps, os demais itens eram tabelados e agregados ao valor. Por serem valores tabelados onde todos as variações disponiveis estavam previamente precificadas bastando apenas agregar ao valor por quilometro rodado, foi relativamente simples por ser compativel com o Sheets.
 
-**Valores promocionais**
+
+**Valores Promocionais**
+
 Valores promocionais tambem foram previamente tabelados e tambem podem ser aplicados durante o processo de precificação na coluna (Cupom Promocional), cabe ao analista durante o processo de precificação avaliar se os criterios de aplicação do cupom se aplicam a viagem. Os valores Personalizados são aplicados caso aja uma negociação fora desse escopo tabelado e os valores da viagem devem ser digitados no campo Valor personalizado.
 
 
