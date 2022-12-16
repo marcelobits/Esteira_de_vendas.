@@ -75,6 +75,30 @@ Valores promocionais tambem foram previamente tabelados e tambem podem ser aplic
 
 ![Preço](https://user-images.githubusercontent.com/44843566/207890300-9acbb86f-e3d5-4aca-84d2-c6f5c0f752c1.PNG)
 
+
+**Formulario de Proposta**
+
+O processo de emissão e envio da proposta tambem foi semi-automatizado, bastando apenas bucar o numero do orçamento realizado e escolher as opçoes
+de gerar o PDF ou enviar por Email
+
+![image](https://user-images.githubusercontent.com/44843566/208129097-437457bf-416d-4ee0-a0f6-bebb6afed6b1.png)
+
+
+
+*Gerando PDF*
+
+Sera aberto uma pagina de assistente de impressão, você pode baixar e salvar a proposta ou imprimir.
+![image](https://user-images.githubusercontent.com/44843566/208130242-efdcb2ce-cb14-43fe-a868-e1d7f0fca913.png)
+
+
+*Enviando via Email*
+
+Ao clicar em enviar por email, um novo email sera criado com uma mensagem padrão e com assunto preenchidos, sendo necessario anexar a proposta em pdf
+
+![image](https://user-images.githubusercontent.com/44843566/208144310-57db8347-4146-4ec3-85ae-d052b3bddd44.png)
+
+
+
 **Acesso ao Projeto**
 
 O Acesso ao projeto esta liberado para visualização travez do link: https://bit.ly/3V4Ip9A
